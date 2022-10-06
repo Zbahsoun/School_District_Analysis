@@ -8,7 +8,7 @@
 
 -The highest student count of 2038 goes to Montogomery school, while the lowest student count of 171 goes to the Chang High School. There's a big gap between the max and min student count number per school.
 
--There isn't a big difference between the school budget per school type.
+-There isn't a big difference between the school budgets per school type.
 
 -From grade 9 to 11, the Charter school has higher math scores, while for grade 12 the Public school has a higher math score.
 
